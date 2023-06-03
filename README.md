@@ -15,5 +15,5 @@ of patients. The extraction of a few significant temporal and frequency features
 features will be processed. Following the classification of these characteristics using the
 mentioned methods, we analyze our validation signal dataset using these models. Using
 decision trees, regression models, support vector machine (SVM) models, and other machine
-learning classification approaches, this paper's main objective is to offer a method for
+learning classification approaches, our main objective is to offer a method for
 categorizing normal and pathological heart sound recordings.
